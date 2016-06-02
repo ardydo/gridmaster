@@ -16,7 +16,7 @@ So for this course you're supposed to design a paper game taht can fir in  so he
     * Your goal is to reach the exit with as much coins as possible
     * Lucky coins: You can spend them anytime to add 2 to your roll or to heal 1 hp
 
-Legend:
+### Legend:
     * E - Enemy
         * When you land on the same square as an enemy you two fight (roll the dies)
         * If the enemy has a modifier (like +1) next to it add that number to it's result
