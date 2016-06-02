@@ -3,6 +3,8 @@ an asigment for a coursera course
 
 So for this course you're supposed to design a paper game taht can fir in  so here it is. This is actually the second version of the game because the first one was quite bad.
 
+It's a pretty simple game. Open the game image for the board and try to read the rules. Fail miserably because of the poor resolution that is 100% my fault them come back here and read it to play.
+
 ### Materials
     * Something to mark your position in the board
     * Two six-sided dies
