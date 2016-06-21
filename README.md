@@ -5,6 +5,8 @@ So for this course you're supposed to design a paper game taht can fir in  so he
 
 It's a pretty simple game. Open the game image for the board and try to read the rules. Fail miserably because of the poor resolution that is 100% my fault them come back here and read it to play.
 
+You're a might explorer! You found the map for the ruins of a lost city in the heart of the forest and because of it. Legend tell it's full of ancient treasures and mystic coins of wisdom. Go forth! Venture thru the woods (though this is really only the first path to the city of legends) but be careful, for it's also said that the ghosts of the past still haunt those ruins.
+
 ### Materials
     * Something to mark your position in the board
     * Two six-sided dies
